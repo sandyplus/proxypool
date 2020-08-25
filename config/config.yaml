@@ -1,6 +1,5 @@
-domain: example.com
+domain: i8lssr.herokuapp.com
 cf_email: ""
 cf_key: ""
 source-files:
-  - ./source.yaml
-  - https://example.com/source.yaml
+  - https://https://raw.githubusercontent.com/vipxkw/proxypool/master/config/source.yaml
