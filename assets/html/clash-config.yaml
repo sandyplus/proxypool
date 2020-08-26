@@ -50,15 +50,11 @@ proxy-groups:
       - provider
     url: 'http://www.gstatic.com/generate_204'
     interval: 300
-  - name: 网址 https://proxy.tgbot.co
+  - name: 更新地址 https://www.vipiu.net/archives/2018/02/18/306.html
     type: select
     proxies:
       - DIRECT
-  - name: 欢迎Star https://github.com/zu1k/proxypool
-    type: select
-    proxies:
-      - DIRECT
-  - name: TG频道 @peekfun
+  - name: 欢迎访问 https://www.vipiu.net/
     type: select
     proxies:
       - DIRECT
